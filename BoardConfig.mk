@@ -35,6 +35,9 @@ USE_CUSTOM_AUDIO_POLICY := 1
 # Baseband
 TARGET_BOARD_INFO_FILE ?= device/htc/fireball/board-info.txt
 
+# Bionic
+TARGET_NEEDS_NON_PIE_SUPPORT := true
+
 # Bootloader
 TARGET_BOOTLOADER_BOARD_NAME := fireball
 
