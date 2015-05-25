@@ -22,7 +22,7 @@ $(call inherit-product, device/htc/fireball/device_fireball.mk)
 
 # Device naming
 PRODUCT_DEVICE := fireball
-PRODUCT_NAME := cm_fireball
+PRODUCT_NAME := pac_fireball
 PRODUCT_BRAND := htc
 PRODUCT_MODEL := Incredible 4G LTE
 PRODUCT_MANUFACTURER := HTC
