@@ -24,6 +24,12 @@ PRODUCT_PACKAGES += \
     fstab.qcom \
     init.target.rc
 
+# F2FS
+PRODUCT_PACKAGES += \
+    mkfs.f2fs \
+    fsck.f2fs \
+    fibmap.f2fs
+
 # Sound configs
 PRODUCT_COPY_FILES += \
     device/htc/fireball/dsp/soundimage/srs_bypass.cfg:system/etc/soundimage/srs_bypass.cfg \
