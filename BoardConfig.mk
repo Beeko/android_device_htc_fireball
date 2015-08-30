@@ -32,6 +32,9 @@ TARGET_BOARD_INFO_FILE ?= device/htc/fireball/board-info.txt
 # Audio
 BOARD_USES_SEPERATED_VOICE_SPEAKER := true
 
+# Assert
+TARGET_OTA_ASSERT_DEVICE := fireballx
+
 # Bionic
 TARGET_NEEDS_NON_PIE_SUPPORT := true
 
