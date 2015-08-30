@@ -2213,10 +2213,10 @@ SectionDevice
 		'RX4 Digital Volume':1:77
 		'RX1 Digital Volume':1:67
 		'RX2 Digital Volume':1:67
-		'LINEOUT1 Volume':1:70
-		'LINEOUT3 Volume':1:70
-		'HPHL Volume':1:50
-		'HPHR Volume':1:50
+		'LINEOUT1 Volume':1:100
+		'LINEOUT3 Volume':1:100
+		'HPHL Volume':1:60
+		'HPHR Volume':1:60
 		'SPK AMP EN Switch':1:1
 	EndSequence
 
