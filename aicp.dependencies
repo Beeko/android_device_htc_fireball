@@ -1,0 +1,27 @@
+[
+  {
+    "repository": "Beeko/android_device_htc_fireball",
+    "target_path": "device/htc/fireball",
+    "branch":      "pac-5.1"
+  },
+  {
+    "repository": "Beeko/android_device_htc_msm8960-common",
+    "target_path": "device/htc/msm8960-common",
+    "branch":      "pac-5.1"
+  },
+  {
+    "repository": "Beeko/android_kernel_htc_msm8960",
+    "target_path": "kernel/htc/msm8960",
+    "branch":      "pac-5.1"
+  },
+  {
+    "repository": "Pinky-Inky-and-Clyde/proprietary_vendor_htc",
+    "target_path": "vendor/htc",
+    "branch":      "cm-12.1"
+  },
+  {
+    "repository":  "Beeko/android_device_htc_s4-common",
+    "target_path": "device/htc/s4-common",
+    "branch":      "pac-5.1"
+  }
+]
