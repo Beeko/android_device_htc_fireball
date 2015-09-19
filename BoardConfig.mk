@@ -59,9 +59,6 @@ BOARD_CAMERA_FRONT_VGA := true
 # USB
 TARGET_USE_CUSTOM_LUN_FILE_PATH := /sys/devices/platform/msm_hsusb/gadget/lun%d/file
 
-# Viper4Android
-PRODUCT_PACKAGES += Viper4Android
-
 #cat /proc/emmc
 #dev:        size     erasesize name
 #mmcblk0p23: 000ffa00 00000200 "misc"
