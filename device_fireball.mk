@@ -22,7 +22,8 @@ DEVICE_PACKAGE_OVERLAYS += device/htc/fireball/overlay
 # Boot ramdisk setup
 PRODUCT_PACKAGES += \
     fstab.qcom \
-    init.target.rc
+    init.target.rc \
+    init.led.sh
 
 # F2FS
 PRODUCT_PACKAGES += \
