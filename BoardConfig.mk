@@ -26,6 +26,9 @@
 # inherit from S4 common
 -include device/htc/s4-common/BoardConfigCommon.mk
 
+# Assert
+TARGET_OTA_ASSERT_DEVICE := fireballx
+
 # Audio
 USE_CUSTOM_AUDIO_POLICY := 1
 
